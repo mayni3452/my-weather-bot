@@ -3,7 +3,7 @@ import requests
 import json
 
 
-bot = telebot.TeleBot('8402633139:AAFvGWEPAaNPxg36ZnfNn7mLdb-K0EAr884')
+bot = telebot.TeleBot('your telegram-bot token')
 API = '57c4288add8cba15238bddcf1159ec7a'
 @bot.message_handler(commands=['start'])
 def start(message):
