@@ -2,13 +2,13 @@
 
 A simple Telegram bot that provides current weather information using the OpenWeather API.
 
-## 🚀 Features
+##  Features
 - Shows current weather description
 - Displays temperature, humidity, and pressure
 - Uses emojis for better readability
 - Supports HTML formatting in messages
 
-## 🧩 Technologies
+##  Technologies
 - Python  
 - pyTelegramBotAPI  
 - OpenWeather API  
